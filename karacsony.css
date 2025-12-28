@@ -1,0 +1,26 @@
+body{
+    background-image:url("lib/kepek/hatter.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-size: auto;
+}
+
+/*
+.row{
+    position: relative;
+  width: 100%;
+  height: 200px
+}*/
+.fejlec{
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+.card-img-custom {
+    height: 220px;
+    object-fit: cover;
+}
