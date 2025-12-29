@@ -4,11 +4,6 @@ body{
     background-size:cover;
     background-size: auto;
 }
-.fejlec{
-    padding: 20px;
-    text-align: center;
-    color: beige;
-}
 main{
     width: 90%;
     margin: auto;
@@ -16,6 +11,19 @@ main{
 .card-img-custom {
     height: 220px;
     object-fit: cover;
+}
+.link{
+    padding: 10px;
+    text-align: center;
+    color: beige;
+}
+.link:hover{
+    color: chocolate;
+}
+header{
+    text-align: center;
+    color: beige;
+    padding: 20px;
 }
 footer{
     color: aliceblue;
