@@ -7,7 +7,6 @@ body {
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
-    color: aliceblue;
 }
 header{
     text-align: center;
@@ -17,13 +16,14 @@ header{
 header h1 {
     margin: 0;
     font-size: 2rem;
-    color: aliceblue;
 }
 .container {
-    color: aliceblue;
+    color:chartreuse;
     max-width: 800px;
     margin: 2rem auto;
     padding: 0 1rem;
+    font-size: large;
+    font-weight: 500;
 }
 
 img {
@@ -35,12 +35,10 @@ img {
 
 h2 {
     margin-top: 2rem;
-    color: aliceblue;
 }
 
 ul, ol {
     margin-left: 1.5rem;
-    color: aliceblue;
 }
 footer{
     color: aliceblue;

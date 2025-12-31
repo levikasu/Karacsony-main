@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url("lib/kepek/hatter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+.card-img-custom {
+    height: 220px;
+    object-fit: cover;
+}
+.link{
+    padding: 10px;
+    text-align: center;
+    color: beige;
+}
+.link:hover{
+    color: chocolate;
+}
+header{
+    text-align: center;
+    color: beige;
+    padding: 20px;
+}
+footer{
+    color: aliceblue;
+}
