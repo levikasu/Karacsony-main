@@ -1,8 +1,11 @@
-body{
-    background-image:url("lib/kepek/hatter.jpg") ;
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url("lib/kepek/hatter.jpg");
     background-repeat: no-repeat;
-    background-size:cover;
-    background-size: auto;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 .fejlec{
     padding: 20px;
