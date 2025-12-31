@@ -1,0 +1,56 @@
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: url("lib/kepek/hatter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+header{
+    text-align: center;
+    color: beige;
+    padding: 20px;
+}
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: aliceblue;
+}
+.container {
+    color: aliceblue;
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    margin: 1rem 0;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 2rem;
+    color: aliceblue;
+}
+
+ul, ol {
+    margin-left: 1.5rem;
+    color: aliceblue;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+}
+.link{
+    padding: 10px;
+    text-align: center;
+    color: beige;
+}
+.link:hover{
+    color: chocolate;
+}
